@@ -13,7 +13,10 @@ let PetShareCodes = [
 ]
 
 */
-let PetShareCodes
+let PetShareCodes = [
+  '',//账号一的好友shareCode,不同好友中间用@符号隔开
+  '',//账号二的好友shareCode，不同好友中间用@符号隔开
+]
 // 从日志获取互助码
 // const logShareCodes = require('./utils/jdShareCodes');
 // if (logShareCodes.PETSHARECODES.length > 0 && !process.env.PETSHARECODES) {
