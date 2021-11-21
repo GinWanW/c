@@ -13,7 +13,7 @@ let FruitShareCodes = [
 ]
 */
 
-let shareCodes = [
+let FruitShareCodes = [
   '',//账号一的好友shareCode,不同好友中间用@符号隔开
   '',//账号二的好友shareCode，不同好友中间用@符号隔开
 ]
